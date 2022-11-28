@@ -1,6 +1,6 @@
 # Ansible-Checker
 
-Some time it hard to check Jinja2 template is write correctty or not. This project is simple to check that case.
+Some time it hard to check Jinja2 template is wrote correctty or not. This project is simple to check that case.
 
 # How to use
 
